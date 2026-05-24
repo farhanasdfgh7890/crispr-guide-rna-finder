@@ -1,5 +1,7 @@
 # CRISPR Guide RNA Finder
 
+**Live demo:** [Click here to try it live](https://crispr-guide-rna-finder.onrender.com)
+
 A bioinformatics tool that analyzes DNA sequences and identifies SpCas9 guide RNA
 target sites using PAM (NGG) detection and scoring.
 
